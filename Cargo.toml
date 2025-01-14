@@ -1,0 +1,13 @@
+[package]
+authors = ["PotatoMaster101"]
+description = "Advent of Code utility library"
+edition = "2021"
+keywords = ["advent-of-code"]
+license = "MIT"
+name = "aocrs"
+readme = "README.md"
+repository = "https://github.com/PotatoMaster101/aocrs"
+version = "0.1.0"
+
+[dependencies]
+num = "0.4"
